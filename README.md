@@ -1,8 +1,10 @@
 # HP-Omen-X-17-GTX-1080-Big-Sur
 Hackintosh Big Sur 11.6.7 HP-Omen-X-17-GTX-1080
 
-Big Sur 11.6.7, Monterey 12.4, Ventura 13.0 beta 2 
-OC 0.8.2, or Clover 5137, 5138, 5139 
+Big Sur 11.6.7, Monterey 12.4, Ventura 13.0 beta 2
+
+OC 0.8.2, or Clover 5137, 5138, 5139
+
 Latest kexts: Lilu.kext 1.6.1, WhateverGreen.kext 1.6.0, VirtualSMC.kext 1.3.0, VoodooPS2Controller.kext 2.2.9, AppleALC.kext 1.7.3 
 
 What works
