@@ -1,7 +1,7 @@
 # HP-Omen-X-17-GTX-1080-Big-Sur
 Hackintosh Big Sur 11.6.7, HP-Omen-X-17-GTX-1080
 
-
+![Big Sur 11 6 7 (20G630)](https://user-images.githubusercontent.com/79387598/175446205-c8fe1dee-3a65-464c-bc91-a0e6d362ed4c.png)
 
 Big Sur 11.6.7, Monterey 12.4, Ventura 13.0 beta 2
 
