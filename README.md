@@ -34,15 +34,27 @@ Trackpad is not shown in System Preferences (battery is needed) (Big Sur)
 Realtek RTL8822BE (you help me)
 
 Credits
+
 https://dortania.github.io/OpenCore-Install-Guide/
+
 https://github.com/CloverHackyColor/CloverBootloader
+
 https://github.com/acidanthera
+
 https://github.com/VoodooSMBus
+
 https://sourceforge.net/projects/voodoohda/
+
 https://github.com/leocg
+
 https://www.osx86.net
+
 https://osxlatitude.com
+
 https://www.insanelymac.com
+
 https://www.tonymacx86.com
+
 https://mrmacintosh.com
+
 Hervé (osxlatitude.com, insanelymac.com)
